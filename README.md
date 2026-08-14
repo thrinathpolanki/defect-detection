@@ -15,6 +15,10 @@
 [![Stars](https://img.shields.io/github/stars/thrinathpolanki/defect-detection?style=social)](https://github.com/thrinathpolanki)
 [![Forks](https://img.shields.io/github/forks/thrinathpolanki/defect-detection?style=social)](https://github.com/thrinathpolanki)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thrinathpolanki&repo=defect-detection&color=8A63D2&style=for-the-badge&label=REPO+VIEWS)
+
 </div>
 
 ---
