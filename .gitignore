@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Data & models (too large for git, regenerate/retrain instead)
+data/train/*/*.png
+data/train/*/*.jpg
+data/test/*/*.png
+data/test/*/*.jpg
+models/*.keras
+models/*.h5
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
