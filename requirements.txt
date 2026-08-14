@@ -1,0 +1,13 @@
+tensorflow>=2.16,<2.22
+numpy>=1.26,<3
+pillow>=10.3
+opencv-python-headless>=4.9
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+fastapi>=0.111
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+streamlit>=1.35
+pydantic>=2.7
+requests>=2.32
