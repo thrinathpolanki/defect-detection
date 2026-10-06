@@ -27,7 +27,7 @@
 
 **AI-Powered Visual Defect Detection** is a full-stack computer vision system that automatically inspects photos of manufactured products and classifies each one as **✅ GOOD** or **❌ DEFECTIVE** — the same job a human quality-control inspector does on a factory line, done instantly by a trained neural network.
 
-It's built as a **complete, end-to-end ML pipeline**, not just a notebook experiment:
+It's built as a **complete, end-to-end ML pipeline**,. not just a notebook experiment:
 
 ```
 📸 Image → 🧹 Preprocessing/Augmentation → 🧠 Two-Phase CNN Training → 🛡️ Anomaly Guardrail → 📊 Evaluation → 🚀 Real-Time Deployment
